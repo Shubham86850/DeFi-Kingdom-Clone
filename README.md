@@ -43,5 +43,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Authors
 
-Srijan Kumar  
+Shubham  
 [@Shubham](sksingh94166@gmail.com)
